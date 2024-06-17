@@ -25,6 +25,9 @@ terraform.rc
 # Output files
 *.out
 
+# Terraform lock file
+.terraform.lock.hcl
+
 # IDE directories and files
 .vscode/
 .idea/
